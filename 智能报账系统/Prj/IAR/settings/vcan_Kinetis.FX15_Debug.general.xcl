@@ -1,0 +1,17 @@
+"D:\arm\bin\armproc.dll" 
+
+"D:\arm\bin\armJET.dll" 
+
+"D:\飞思卡尔\舵机左右摆动\Prj\IAR\FX15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "D:\arm\bin\armbat.dll" 
+
+--device_macro "D:\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "D:\arm\config\flashloader\NXP\FlashK60Fxxx128K.board" 
+
+
+
+
